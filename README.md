@@ -32,18 +32,21 @@ Dynamic and results-oriented professional with a solid background in [Your Indus
 
 ---
 ## Education
-- [Your Degree] in [Your Major], [Your University], [Year]
+- [B Tech ] in [Artificial Intelligence & Data Science ], [Rajasthan Technical Univercity], [2028]
 
 ## 🔥 GitHub Streak
 ![Hansraj's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hansraj-Pandey&theme=radical)
 ## Certifications
-- [Certification Name] - [Issuing Organization]
+- [MongoDB ] - [MongoDB]
+- [Genrative AI in HR] - [Coursera]
+- [Programing in C] - [Infosys]
+- [C Essential ] - [Cisco]
 
 ---
 
 ## 🌐 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/hansraj-pandey)  
+- [LinkedIn](www.linkedin.com/in/hansraj-pandey-62a8ba374)  
 - [Portfolio](https://your-portfolio-link.com)  
 ## Contact
-- Email: [Your Email]
+- Email: [Hansrajpandey22@gmail.com]
 - LinkedIn: [Your LinkedIn Profile URL]
